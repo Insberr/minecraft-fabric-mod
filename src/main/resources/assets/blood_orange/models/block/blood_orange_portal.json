@@ -1,0 +1,4 @@
+{
+  "parent": "block/cube_all",
+  "textures": { "all": "blood_orange:block/blood_orange_portal" }
+}
