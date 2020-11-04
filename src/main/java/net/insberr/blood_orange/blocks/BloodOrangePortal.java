@@ -9,4 +9,5 @@ public class BloodOrangePortal extends Block {
         super(FabricBlockSettings.of(Material.METAL).hardness(4.0f));
     }
 
+    // add teleport to new dimension
 }
